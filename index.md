@@ -15,3 +15,8 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var hachiware = "Hachiware is the best!"
 ```
+### H3 Header: Checkbox
+- [x] Infiltratate Birukin's close circle
+- [x] Plan his demise with fellow traitors
+- [x] Set day of overthrow: Jan 16th
+- [ ] Overtake Kim Jong Birukin's dictatorship
